@@ -1,0 +1,2 @@
+# Othello
+Classic Othello Game
